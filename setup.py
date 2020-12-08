@@ -78,7 +78,7 @@ requirements = [
     ujson,
     "aiofiles>=0.3.0",
     "websockets>=7.0,<9.0",
-    "multidict==5.0.0",
+    "multidict>=5.0.0,<6.0.0a0",
     "httpx==0.9.3",
 ]
 
